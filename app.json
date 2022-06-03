@@ -1,9 +1,9 @@
 {
-  "name": "VCPlayBot",
-  "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
+  "name": "HINATA",
+  "logo": "https://te.legra.ph/file/930aff9d0a99d49bcf0c4.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://github.com/LuffyZoroNami/VCPlayBot",
   "stack": "container",
   "buildpacks": [
    {
